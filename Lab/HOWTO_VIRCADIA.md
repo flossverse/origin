@@ -606,7 +606,7 @@ On the metaverse server open a terminal and run:
 ```
 cd vircadia-metaverse
 
-node/dist/index.ts
+node ./dist/index.ts
 ```
 
 #### ICE server
